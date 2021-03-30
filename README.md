@@ -1,18 +1,28 @@
 # Arshedni website 
  Extend a helping hand to be the link Between a recent graduate student from high school, and the university ,
- By helping them and guiding them through our volunteer specialists who answer all their queries, also provide sufficient information to reduce the feeling of being lost when
- choosing their college path.
- 
+ By helping them and guiding them through our volunteer specialists who answer all their queries, also provide sufficient information :
+ 1: Overview of majors
+2: Plan Study
+3: Percentage required for admission to this major
+4: Functional areas of major
+5: volunteer specialists
+ to reduce the feeling of being lost when choosing their college path.
 
 ## language
 
  Arabic
  
+ ## Built With
+
+* [Firebase](http://www.dropwizard.io/1.0.2/docs/) - Cloud Firestore,Firebase Authentication
+* [XAMPP](https://www.apachefriends.org/index.html) - PHP development environment
+
+ 
 ## Authors
 
-* **wesayef** - [Arshedni](https://github.com/wesayef)
-* **AhlamHasan**  - [Arshedni](https://github.com/AhlamHasan)
-* **Noufalotaibi** -  [Arshedni](https://github.com/Noufalotaibi3)
-* **wesayef** - [Arshedni](https://github.com/GhaidaKS)
+* **wesayef** - [vist](https://github.com/wesayef)
+* **AhlamHasan**  - [vist](https://github.com/AhlamHasan)
+* **Noufalotaibi** -  [vist](https://github.com/Noufalotaibi3)
+* **GhaidaKS** - [vist](https://github.com/GhaidaKS)
 
 
