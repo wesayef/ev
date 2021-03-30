@@ -5,6 +5,6 @@
  
 ## Authors
 
-* **wesayef** - *Initial work* - [PurpleBooth](https://github.com/wesayef)
+* **wesayef** - *Initial work* - [Arshedni](https://github.com/wesayef)
 
 See also the list of [contributors](https://github.com/Arshedni/contributors) who participated in this project.
