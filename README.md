@@ -3,6 +3,11 @@
  By helping them and guiding them through our volunteer specialists who answer all their queries, also provide sufficient information to reduce the feeling of being lost when
  choosing their college path.
  
+
+## language
+
+ Arabic
+ 
 ## Authors
 
 * **wesayef** - *Initial work* - [Arshedni](https://github.com/wesayef)
