@@ -1,12 +1,13 @@
 # Arshedni website 
  Extend a helping hand to be the link Between a recent graduate student from high school, and the university ,
  By helping them and guiding them through our volunteer specialists who answer all their queries, also provide sufficient information :
- 1: Overview of majors
-2: Plan Study
-3: Percentage required for admission to this major
-4: Functional areas of major
-5: volunteer specialists
- to reduce the feeling of being lost when choosing their college path.
+ * Overview of majors
+* Plan Study
+* Percentage required for admission to this major
+* Functional areas of major
+* volunteer specialists
+
+> We aim to reduce the feeling of being lost when the graduate student from high school choose their college path.
 
 ## language
 
