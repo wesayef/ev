@@ -13,6 +13,6 @@
 * **wesayef** - [Arshedni](https://github.com/wesayef)
 * **AhlamHasan**  - [Arshedni](https://github.com/AhlamHasan)
 * **Noufalotaibi** -  [Arshedni](https://github.com/Noufalotaibi3)
-* **wesayef** - [Arshedni](https://github.com/wesayef)
+* **wesayef** - [Arshedni](https://github.com/GhaidaKS)
 
 
