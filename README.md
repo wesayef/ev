@@ -10,6 +10,9 @@
  
 ## Authors
 
-* **wesayef** - *Initial work* - [Arshedni](https://github.com/wesayef)
+* **wesayef** - [Arshedni](https://github.com/wesayef)
+* **AhlamHasan**  - [Arshedni](https://github.com/AhlamHasan)
+* **wesayef** -  [Arshedni](https://github.com/wesayef)
+* **wesayef** - [Arshedni](https://github.com/wesayef)
 
-See also the list of [contributors](https://github.com/wesayef/Arshedni/contributors) who participated in this project.
+
