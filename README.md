@@ -12,4 +12,4 @@
 
 * **wesayef** - *Initial work* - [Arshedni](https://github.com/wesayef)
 
-See also the list of [contributors](https://github.com/wesayef/Arshedni/graphs/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/wesayef/Arshedni/contributors) who participated in this project.
