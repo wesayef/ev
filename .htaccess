@@ -1,0 +1,60 @@
+Options -Indexes
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  # Images
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 year"
+  # Video
+  ExpiresByType video/mp4 "access plus 1 year"
+  ExpiresByType video/mpeg "access plus 1 year"
+  # CSS, JavaScript
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  # Others
+  ExpiresByType application/pdf "access plus 1 month"
+  ExpiresByType application/x-shockwave-flash "access plus 1 month"
+</IfModule>
+
+RewriteEngine on
+
+RewriteRule   ^clogin$                                                          templates/login.php
+RewriteRule   ^logout$                                                          logout.php
+
+#### Simple Templates ####
+
+RewriteRule   ^dashboard$                                                            templates/index.php
+
+RewriteRule   ^admins_in_system$                                                templates/admins_in_system.php
+RewriteRule   ^users_in_system$                                                 templates/users_in_system.php
+RewriteRule   ^universities_in_system$                                          templates/universities_in_system.php
+RewriteRule   ^admissions_in_system$                                            templates/admissions_in_system.php
+RewriteRule   ^volunteers_in_system$                                            templates/volunteers_in_system.php
+RewriteRule   ^certificates_in_system$                                          templates/certificates_in_system.php
+RewriteRule   ^add_new_certificate$                                             templates/certificates_in_system.php?type=add_new_certificate
+RewriteRule   ^edit_certificate=([^/]*)$                                        templates/certificates_in_system.php?type=edit_certificate&ckey=$1
+RewriteRule   ^apps_in_system$                                                  templates/apps_in_system.php
+RewriteRule   ^add_new_app$                                                     templates/apps_in_system.php?type=add_new_app
+RewriteRule   ^edit_app=([^/]*)$                                                templates/apps_in_system.php?type=edit_app&akey=$1
+RewriteRule   ^js_request$                                                      templates/js_request.php
+
+
+RewriteRule   ^home$                                                            visitors/index.php
+RewriteRule   ^login$                                                           visitors/login.php
+RewriteRule   ^register$                                                        visitors/register.php
+
+
+RewriteRule   ^universities$                                          users/universities.php
+RewriteRule   ^admissions$                                            users/admissions.php
+RewriteRule   ^volunteers$                                            users/volunteers.php
+RewriteRule   ^certificates$                                          users/certificates.php
+RewriteRule   ^apps$                                                  users/apps.php
+RewriteRule   ^cal$                                                   users/cal.php
+RewriteRule   ^test$                                                  users/test.php
+
+RewriteRule   ^js$                                                    users/js_request.php

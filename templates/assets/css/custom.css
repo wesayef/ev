@@ -1,0 +1,281 @@
+@font-face {
+
+  font-family: 'DroidKufi-Regular';
+
+  font-style: normal;
+
+  font-weight: 100;
+
+  src: url(../fonts/DroidKufi-Regular.eot);
+
+  src: url(../fonts/DroidKufi-Regular.eot?#iefix) format('embedded-opentype'),
+
+       url(../fonts/DroidKufi-Regular.woff2) format('woff2'),
+
+       url(../fonts/DroidKufi-Regular.woff) format('woff'),
+
+       url(../fonts/DroidKufi-Regular.ttf) format('truetype');
+
+}
+
+@font-face {
+
+  font-family: 'DroidKufi-Bold';
+
+  font-style: normal;
+
+  font-weight: 700;
+
+  src: url(../fonts/DroidKufi-Bold.eot);
+
+  src: url(../fonts/DroidKufi-Bold.eot?#iefix) format('embedded-opentype'),
+
+       url(../fonts/DroidKufi-Bold.woff2) format('woff2'),
+
+       url(../fonts/DroidKufi-Bold.woff) format('woff'),
+
+       url(../fonts/DroidKufi-Bold.ttf) format('truetype');
+
+}
+.mobile_btn {
+  margin-top: 29px !important;
+}
+
+@media only screen and (max-width:1199px) {
+.mobile_btn {
+  margin-top: 29px !important;
+}
+.mobile_sm_btn {
+  margin-top: 10px !important;
+}
+}
+@media only screen and (max-width:991px) {
+.mobile_btn {
+  margin-top: 1px !important;
+}
+.mobile_sm_btn {
+  margin-top: 10px !important;
+}
+}
+@media only screen and (max-width:767px) {
+.mobile_btn {
+  margin-top: 1px !important;
+}
+.mobile_sm_btn {
+  margin-top: 10px !important;
+}
+}
+
+@media only screen and (max-width:680px){
+.mobile_btn {
+  margin-top: 1px !important;
+}
+.mobile_sm_btn {
+  margin-top: 10px !important;
+}
+}
+
+@media only screen and (max-width:500px){
+.mobile_btn {
+  margin-top: 1px !important;
+}
+.mobile_sm_btn {
+  margin-top: 10px !important;
+}
+.mobile_sml_btn {
+  margin-top: 10px !important;
+}
+}
+
+@media only screen and (max-width:360px){
+.mobile_btn {
+  margin-top: 1px !important;
+}
+.mobile_sm_btn {
+  margin-top: 5px !important;
+}
+}
+
+body, #swal2-content, .tooltip{
+  font-family: 'DroidKufi-Regular';
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'DroidKufi-Bold';
+}
+.jq-toast-heading{
+  font-family: 'DroidKufi-Bold' !important;
+}
+.jq-toast-single{
+  font-family: 'DroidKufi-Regular';
+  text-align: right !important;
+}
+.jq-toast-loader {
+    left: auto;
+    right: 0;
+    background: #675027;
+}
+.close-jq-toast-single {
+    left: 7px;
+    right: auto;
+}
+.jq-icon-success {
+    background-color: #2e533b;
+    color: #fff;
+}
+.jq-icon-warning {
+    background-color: #a17828;
+    color: #fff;
+}
+.jq-icon-error {
+    background-color: #a93838;
+    color: #fff;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #af3b3c;
+    border-color: #af3b3c;
+}
+.bg-danger{
+  background-color: #af3b3c !important;
+}
+.bg-warning{
+  background-color: #a17828 !important;
+}
+.text-danger {
+    color: #ec2426 !important;
+}
+.sidebar-nav > ul > li a{
+    font-size: 12px;
+}
+.badge-success {
+    color: #fff;
+    background-color: #047143;
+}
+.btn-success {
+    color: #fff;
+    background-color: #047143;
+    border-color: #047143;
+}
+.btn-success:hover {
+    color: #fff;
+    background-color: #0a9e60;
+    border-color: #0a9e60;
+}
+.badge-warning {
+    color: #fff;
+    background-color: #b2904f;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #b2904f;
+    border-color: #b2904f;
+}
+.btn-warning:hover {
+    color: #fff;
+    background-color: #af9b74;
+    border-color: #af9b74;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #213633;
+    border-color: #213633;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #02574e;
+    border-color: #02574e;
+}
+.swal2-icon.swal2-warning {
+    color: #ff5a5b;
+    border-color: #ff5a5b;
+}
+.card-outline-warning > .card-header{
+  background-color: #A17828;
+}
+.btt_alert_notification{
+  background-color: #ff5a5b !important;
+  border-color: #ff5a5b !important;
+}
+.toast-message h4{
+  color: #fff;
+}
+.toast-warning h4{
+  color: #324939;
+}
+.toast-warning > .toast-message{
+  color: #000;
+}
+.sub_internal_card > .card-header{
+  background-color: #730302;
+  color: #fff;
+}
+.sub_internal_card > .card-body{
+  background-color: #b5812d26;
+}
+.internal_card > .card-header{
+  background-color: #112918;
+  color: #fff;
+}
+.internal_card > .card-body{
+  background-color: #dae0dc1f;
+}
+.dropdown-item.active, .dropdown-item:active {
+background-color: #a17828;
+}
+.modal-header .close {
+    display: none;
+}
+
+
+.pagination-split li {
+    margin-right: 5px !important;
+    margin-left: 0px !important;
+    float: right;
+}
+.page-item.active .page-link {
+  background-color: #03653c;
+  border-color: #03653c;
+}
+
+
+
+.wizard-content .wizard > .actions > ul {
+    float: left;
+}
+
+.select2{
+  width: 100% !important;
+}
+
+.close {
+    float: left;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #1b8071;
+    border-color: #1b8071;
+}
+[type="checkbox"]:not(:checked), [type="checkbox"]:checked {
+    position: relative;
+    right: 0px;
+    opacity: 1;
+}
+
+
+
+.nav-toggler {
+    margin-right: 10px;
+}
+.btn-success:not(:disabled):not(.disabled):active:focus, .btn-success:not(:disabled):not(.disabled).active:focus, .show > .btn-success.dropdown-toggle:focus {
+    box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125), 0 0 0 0.2rem rgb(4, 173, 141);
+}
+.btn-success:not(:disabled):not(.disabled):active, .btn-success:not(:disabled):not(.disabled).active, .show > .btn-success.dropdown-toggle {
+    color: #fff;
+    background-color: #00524a;
+    border-color: #00524a;
+}
+.topbar .top-navbar .navbar-header {
+    padding-left: 0px َ!important;
+    padding-right: 0px !important;
+  }

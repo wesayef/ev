@@ -1,0 +1,50 @@
+@media only screen and (max-width: 800px) {
+
+	/* Force table to not be like tables anymore */
+	.tables_mobile table,
+	.tables_mobile thead,
+	.tables_mobile tbody,
+	.tables_mobile th,
+	.tables_mobile td,
+	.tables_mobile tr {
+		display: block;
+		border-bottom: 1px solid #041e46 !important;
+	}
+
+	/* Hide table headers (but not display: none;, for accessibility) */
+	.tables_mobile thead tr {
+		position: absolute;
+		top: -9999px;
+		right: -9999px;
+	}
+
+	.tables_mobile td {
+		/* Behave  like a "row" */
+		border: none;
+		border-bottom: 1px solid #eee !important;
+		position: relative;
+		padding-right: 50% !important;
+		white-space: normal !important;
+		text-align:right;
+	}
+	.tables_mobile th{
+			text-align:center;
+	}
+	.tables_mobile td:before {
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		right: 6px;
+		width: 45%;
+		padding-right: 10px;
+		white-space: nowrap;
+		text-align:right;
+		font-weight: bold;
+	}
+
+	/*
+	Label the data
+	*/
+	.tables_mobile td:before { content: attr(data-title); }
+}
