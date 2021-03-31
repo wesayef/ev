@@ -26,4 +26,7 @@
 * **Noufalotaibi** -  [vist](https://github.com/Noufalotaibi3)
 * **GhaidaKS** - [vist](https://github.com/GhaidaKS)
 
+## note:
+* to open the website in local host => http://localhost/ev/home
+
 
