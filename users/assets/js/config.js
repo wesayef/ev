@@ -1,7 +1,7 @@
 function rating_now(id)
 {
   var val = $("input[name='rat_val']:checked").val();
-  axios.get('http://localhost/ev/js', {
+  axios.get('../js', {
     params: {
       'rating':val,
       'volunteer_id':id
@@ -9,14 +9,14 @@ function rating_now(id)
   })
   .then(function (response) {
     swal("شكرًا لك", "تمّ التقييم بنجاح", "success");
-    window.location.href = "http://localhost/ev/volunteers";
+    window.location.href = "../volunteers";
   });
 }
 
 function calc() {
   
     var e = document.getElementById("get_cal");
-  axios.get('http://localhost/ev/js', {
+  axios.get('../js', {
     params: {
       'uni_key':e.options[e.selectedIndex].value
     }
@@ -32,38 +32,6 @@ function calc() {
 
   });
 }
-// function calc() {
-//   var a =parseInt(document.querySelector("#value1").value);
-//   var b =parseInt(document.querySelector("#value2").value);
-//   var c =parseInt(document.querySelector("#value3").value);
-//   var un =document.querySelector("#university").value;
-//   var calculate;
-//   if (un=="PSAU") {
-//     calculate =((a/100*40)+ (b/100*40) + (c/100*20));
-
-//   } else if (un=="KAU") {
-//     calculate = ((a/100*40)+ (b/100*40) + (c/100*20));
-
-//   } else if (un=="KSU") {
-//     calculate = ((a/100*30)+ (b/100*60) + (c/100*10));
-
-    
-//   } else if (un=="QU") {
-//     calculate = ((a/100*30)+ (b/100*50) + (c/100*20));
-
-    
-//   } else if (un=="NU") {
-//     calculate = ((a/100*40)+ (b/100*50) + (c/100*10));
-
-    
-//   } else if (un=="SU") {
-//     calculate = ((a/100*40)+ (b/100*50) + (c/100*10));
-
-    
-//   } 
-//   document.querySelector("#result").innerHTML = calculate;
-// }
-
 
 
 $(document).ready(function(){
