@@ -3,28 +3,28 @@
   الصفحة الرئيسية
 </title>
 
-<link rel="icon" type="image/png" href="../http://localhost/ev/visitors/assets/img/favicon.png">
+<link rel="icon" type="image/png" href="../visitors/assets/img/favicon.png">
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
 
 <!-- Favicons -->
-<link href="http://localhost/ev/visitors/assets/img/favicon.png" rel="icon">
-<link href="http://localhost/ev/visitors/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="../visitors/assets/img/favicon.png" rel="icon">
+<link href="../visitors/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,600,600i,700,700i,900" rel="stylesheet">
 
 <!-- Vendor CSS Files -->
-<link href="http://localhost/ev/visitors/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
-<link href="http://localhost/ev/visitors/assets/vendor/aos/aos.css" rel="stylesheet">
-<link href="http://localhost/ev/visitors/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-<link href="http://localhost/ev/visitors/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-<link href="http://localhost/ev/visitors/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
-<link href="http://localhost/ev/visitors/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-<link href="http://localhost/ev/visitors/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+<link href="../visitors/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+<link href="../visitors/assets/vendor/aos/aos.css" rel="stylesheet">
+<link href="../visitors/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="../visitors/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+<link href="../visitors/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+<link href="../visitors/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+<link href="../visitors/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
 <!-- Template Main CSS File -->
-<link href="http://localhost/ev/visitors/assets/css/style.css" rel="stylesheet">
+<link href="../visitors/assets/css/style.css" rel="stylesheet">
 
 <style>
   
@@ -133,13 +133,13 @@
 
 
   <!-- Vendor JS Files -->
-  <script src="http://localhost/ev/visitors/assets/vendor/aos/aos.js"></script>
-  <script src="http://localhost/ev/visitors/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="http://localhost/ev/visitors/assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="http://localhost/ev/visitors/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="http://localhost/ev/visitors/assets/vendor/php-email-form/validate.js"></script>
-  <script src="http://localhost/ev/visitors/assets/vendor/purecounter/purecounter.js"></script>
-  <script src="http://localhost/ev/visitors/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="../visitors/assets/vendor/aos/aos.js"></script>
+  <script src="../visitors/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="../visitors/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="../visitors/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="../visitors/assets/vendor/php-email-form/validate.js"></script>
+  <script src="../visitors/assets/vendor/purecounter/purecounter.js"></script>
+  <script src="../visitors/assets/vendor/swiper/swiper-bundle.min.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="http://localhost/ev/visitors/assets/js/main.js"></script>
+  <script src="../visitors/assets/js/main.js"></script>
