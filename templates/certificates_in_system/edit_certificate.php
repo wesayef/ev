@@ -51,7 +51,7 @@ include_once "certificates_in_system/actions.php";
             echo '<a href="certificates_in_system" class="btn btn-dark"><i class="fa fa-share"></i> عودة إلى الصفحة السابقة</a>';
             foreach ($conn->getReference('certificates/')->getSnapshot()->getValue() as $key => $certificate)
             {
-              if($_GET['ckey'] = $key)
+              if($_GET['ckey'] == $key)
               {
                 ?>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -125,19 +125,19 @@ include_once "certificates_in_system/actions.php";
 </div>
 <?php
 custom_footer("",array(
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets//js/ckeditor/ckeditor.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/dropify/dist/js/dropify.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/js/axios.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/inputmask/dist/min/jquery.inputmask.bundle.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/js/mask.init.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/moment/moment.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/clockpicker/dist/jquery-clockpicker.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/jquery-asColor/dist/jquery-asColor.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/jquery-asGradient/dist/jquery-asGradient.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/jquery-asColorPicker-master/dist/jquery-asColorPicker.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/timepicker/bootstrap-timepicker.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/daterangepicker/daterangepicker.js"></script>'
+  '<script type="text/javascript" src="../templates/assets//js/ckeditor/ckeditor.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/dropify/dist/js/dropify.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/js/axios.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/inputmask/dist/min/jquery.inputmask.bundle.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/js/mask.init.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/moment/moment.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/clockpicker/dist/jquery-clockpicker.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/jquery-asColor/dist/jquery-asColor.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/jquery-asGradient/dist/jquery-asGradient.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/jquery-asColorPicker-master/dist/jquery-asColorPicker.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/timepicker/bootstrap-timepicker.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/daterangepicker/daterangepicker.js"></script>'
 ));
 ?>
