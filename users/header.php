@@ -16,7 +16,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
   <!-- CSS Files -->
   <link href="../users/assets/css/material-dashboard.css?v=2.1.2" rel="stylesheet" />
-  <!-- CSS Just for demo purpose, don't include it in your project -->
+ 
   <link href="../users/assets/demo/demo.css" rel="stylesheet" />
   <link href="../users/assets/css/star-rating.css" media="all" rel="stylesheet" type="text/css"/>
 
@@ -28,9 +28,7 @@
     <div class="wrapper ">
       <div class="sidebar" data-color="purple" data-background-color="white" data-image="http://localhost/ev/users/assets/img/sidebar-1.jpg">
      
-        <!-- Tip 1: You can change the color of the sidebar using: data-color="purple | azure | green | orange | danger"
- 
-         Tip 2: you can also add an image using data-image tag-->
+        
      
       <?php include_once "menu.php"; ?>
 
