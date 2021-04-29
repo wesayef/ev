@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <link rel="apple-touch-icon" sizes="76x76" href="http://localhost/ev/users/assets/img/arshedni.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../users/assets/img/arshedni.png">
   <link rel="icon" type="image/png" href="">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
@@ -15,13 +15,13 @@
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
   <!-- CSS Files -->
-  <link href="http://localhost/ev/users/assets/css/material-dashboard.css?v=2.1.2" rel="stylesheet" />
+  <link href="../users/assets/css/material-dashboard.css?v=2.1.2" rel="stylesheet" />
   <!-- CSS Just for demo purpose, don't include it in your project -->
-  <link href="http://localhost/ev/users/assets/demo/demo.css" rel="stylesheet" />
-  <link href="http://localhost/ev/users/assets/css/star-rating.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="../users/assets/demo/demo.css" rel="stylesheet" />
+  <link href="../users/assets/css/star-rating.css" media="all" rel="stylesheet" type="text/css"/>
 
-  <script src="http://localhost/ev/users/assets/js/core/jquery.min.js"></script>
-  <script src="http://localhost/ev/users/assets/js/star-rating.js" type="text/javascript"></script>
+  <script src="../users/assets/js/core/jquery.min.js"></script>
+  <script src="../users/assets/js/star-rating.js" type="text/javascript"></script>
 </head>
 
 <body class="">
