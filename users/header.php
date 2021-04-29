@@ -22,6 +22,7 @@
 
   <script src="../users/assets/js/core/jquery.min.js"></script>
   <script src="../users/assets/js/star-rating.js" type="text/javascript"></script>
+  <script src="../users/assets/js/calc.js"></script>
 </head>
 
 <body class="">
