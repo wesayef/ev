@@ -47,7 +47,7 @@
   <script src="../users/assets/js/axios.min.js"></script>
   <script src="../users/assets/js/sweetalert.min.js"></script>
   <script src="../users/assets/js/config.js"></script>
-  <script src="../users/assets/js/calc.js"></script>
+  
 
 
   <script>
