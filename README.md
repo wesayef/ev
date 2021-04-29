@@ -27,6 +27,6 @@
 * **GhaidaKS** - [vist](https://github.com/GhaidaKS)
 
 ## note:
-* to open the website in local host => http://localhost/ev/home
+* to open the website : https://arshedni.herokuapp.com
 
 
