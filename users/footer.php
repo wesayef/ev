@@ -1,9 +1,4 @@
 
-
-        </div>
-     <div>  
-</body>
-
   <script src="../users/assets/js/core/popper.min.js"></script>
   <script src="../users/assets/js/core/bootstrap-material-design.min.js"></script>
   <script src="../users/assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
