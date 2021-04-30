@@ -29,6 +29,7 @@ function calc() {
    calculate =((a/100*response.data.high_school)+ (b/100*response.data.general_aptitude) + (c/100*response.data.scholastic_chievement));
    // $('#result').html(calculate);
     swal("النسبة الموزونة", calculate+"%", "success");
+    window.location.href = "../cal";
 
   });
 }
