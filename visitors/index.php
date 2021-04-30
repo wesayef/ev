@@ -41,7 +41,7 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background-image: url('http://localhost/ev/visitors/assets/img/slide/slide-1.jpg');">
+          <div class="carousel-item active" style="background-image: url('../visitors/assets/img/slide/slide-1.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown">مرحبا بك في  <span>منصة ارشدني</span></h2>
@@ -52,7 +52,7 @@
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background-image: url('http://localhost/ev/visitors/assets/img/slide/slide-2.jpg');">
+          <div class="carousel-item" style="background-image: url('../visitors/assets/img/slide/slide-2.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown">ماهي منصة ارشدني</h2>
@@ -63,7 +63,7 @@
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url('http://localhost/ev/visitors/assets/img/slide/slide-3.jpg');">
+          <div class="carousel-item" style="background-image: url('../visitors/assets/img/slide/slide-3.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
                 <h2 class="animate__animated animate__fadeInDown">للتسجيل معنا </h2>
