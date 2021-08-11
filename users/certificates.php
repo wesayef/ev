@@ -37,7 +37,7 @@
               </div>
               <div class="card-footer">
                 <div class="stats">
-                  <i class="material-icons">access_time</i> <?php echo convert_date($certificates['updated_at'])."<br>".datetime_to_string_ago($certificates['updated_at']); ?>
+                //  <i class="material-icons">access_time</i> <?php echo convert_date($certificates['updated_at'])."<br>".datetime_to_string_ago($certificates['updated_at']); ?>
                 </div>
               </div>
             </div>
