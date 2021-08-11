@@ -6,7 +6,7 @@ $url = explode("/ev/",$_SERVER['REQUEST_URI']);
 <div class="logo img-fluid" align="center" >
            <img src="../users/assets/img/arshedni.png" height="80" width="80" alt="<h2> أرشدني </h2>" >
 
-         </div>
+  </div>
        <div class="sidebar-wrapper">
          <ul class="nav">
            <li class="nav-item <?php echo ($url[1] == 'home' ? 'active' : '');?>">
