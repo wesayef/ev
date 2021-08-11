@@ -95,7 +95,7 @@
       </div>
 
       <div class="row">
-        <div class="col-lg-4 col-md-8 icon-box" data-aos="fade-up">
+        <div class="col-lg-4 col-md-13 icon-box" data-aos="fade-up">
           <div class="icon"><i class="material-icons">forum</i></div>
           <h4 class="title"><a href="volunteers">استشارة متخصص</a></h4>
           <p class="description">تُتيح لك إمكانية الاستفسار من متخصص عن كل ماتحتاج معرفته في حياتك الجامعية </p>
