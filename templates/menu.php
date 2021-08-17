@@ -1,8 +1,8 @@
 <aside class="left-sidebar">
   <div class="scroll-sidebar">
-    <div class="user-profile" style="background: url(../ev/templates/assets/images/ev.png) no-repeat;">
+    <div class="user-profile" style="background: url(../templates/assets/images/ev.png) no-repeat;">
       <div class="profile-img">
-        <img src="../ev/templates/assets/images/man-icon.png">
+        <img src="../templates/assets/images/man-icon.png">
       </div>
       <div class="profile-text">
         <a href="#" role="button" aria-haspopup="true" aria-expanded="true">
