@@ -90,7 +90,7 @@ function custom_footer($php_files="",$js_files="")
       $ot .= $js_file;
     }
   }
-  $ot .= '<script type="text/javascript" src="http://localhost/ev/templates/assets/js/config.js"></script>';
+  $ot .= '<script type="text/javascript" src="../ev/templates/assets/js/config.js"></script>';
   $ot .= inc_file('end_html.php');
   echo $ot;
 }
