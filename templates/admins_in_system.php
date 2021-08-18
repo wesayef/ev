@@ -1,6 +1,6 @@
 <?php
-include_once 'header.php';
-include_once "admins_in_system/actions.php";
+include_once "../templates/header.php";
+include_once "../templates/admins_in_system/actions.php";
 ?>
 <div class="page-wrapper">
   <div class="container-fluid">
