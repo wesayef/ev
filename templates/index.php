@@ -1,5 +1,5 @@
 <?php
-include_once 'header.php';
+include_once "../templates/header.php";
 ?>
 <div class="page-wrapper">
   <div class="container-fluid">
