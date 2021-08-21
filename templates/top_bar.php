@@ -17,9 +17,8 @@
         <a class="nav-link sidebartoggler d-none d-md-block text-muted waves-effect waves-dark"
         href="javascript:void(0)"><i class="ti-menu"></i>
       </a>
-    </li>
-
-        </ul>
+      </li>
+     </ul>
         <ul class="navbar-nav my-lg-0">
           <li class="nav-item dropdown">
             <a class="nav-link text-muted text-muted waves-effect waves-dark" href="?logout" aria-haspopup="true" aria-expanded="false"> <i
