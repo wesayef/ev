@@ -222,8 +222,8 @@ include_once "universities_in_system/actions.php";
       </div>
       <?php
       custom_footer("",array(
-        '<script type="text/javascript" src="http://192.168.64.2/ev/templates/assets/plugins/dropify/dist/js/dropify.min.js"></script>',
-        '<script type="text/javascript" src="http://192.168.64.2/ev/templates/assets/plugins/inputmask/dist/min/jquery.inputmask.bundle.min.js"></script>',
-        '<script type="text/javascript" src="http://192.168.64.2/ev/templates/assets/js/mask.init.js"></script>'
+        '<script type="text/javascript" src="../templates/assets/plugins/dropify/dist/js/dropify.min.js"></script>',
+        '<script type="text/javascript" src="../templates/assets/plugins/inputmask/dist/min/jquery.inputmask.bundle.min.js"></script>',
+        '<script type="text/javascript" src="../templates/assets/js/mask.init.js"></script>'
       ));
       ?>
