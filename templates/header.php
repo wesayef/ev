@@ -43,6 +43,8 @@ else
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes">
   <link rel="icon" type="image/png" sizes="16x16" href="">
   <title>أرشدني</title>
   <link href="../templates/assets/css/style_all_ar.css" rel="stylesheet">
