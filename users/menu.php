@@ -4,7 +4,7 @@ $url = explode("/ev/",$_SERVER['REQUEST_URI']);
 ?>
 
 <div class="logo img-fluid" align="center" >
-           <img src="../users/assets/img/Removal-782.png" height="80" width="80" alt="<h2> أرشدني </h2>" >
+           <img src="../users/assets/img/Removal-782.png" height="80" width="80" alt=" أرشدني" >
 
   </div>
        <div class="sidebar-wrapper">
