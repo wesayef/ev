@@ -150,17 +150,17 @@ include_once "apps_in_system/actions.php";
       </div>
       <?php
       custom_footer("",array(
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/js/axios.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/inputmask/dist/min/jquery.inputmask.bundle.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/js/mask.init.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/moment/moment.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/clockpicker/dist/jquery-clockpicker.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/jquery-asColor/dist/jquery-asColor.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/jquery-asGradient/dist/jquery-asGradient.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/jquery-asColorPicker-master/dist/jquery-asColorPicker.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/timepicker/bootstrap-timepicker.min.js"></script>',
-  '<script type="text/javascript" src="http://localhost/ev/templates/assets/plugins/daterangepicker/daterangepicker.js"></script>'
+  '<script type="text/javascript" src="../templates/assets/js/axios.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/inputmask/dist/min/jquery.inputmask.bundle.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/js/mask.init.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/moment/moment.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/clockpicker/dist/jquery-clockpicker.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/jquery-asColor/dist/jquery-asColor.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/jquery-asGradient/dist/jquery-asGradient.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/jquery-asColorPicker-master/dist/jquery-asColorPicker.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/bootstrap-datepicker/bootstrap-datepicker.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/timepicker/bootstrap-timepicker.min.js"></script>',
+  '<script type="text/javascript" src="../templates/assets/plugins/daterangepicker/daterangepicker.js"></script>'
 ));
       ?>
