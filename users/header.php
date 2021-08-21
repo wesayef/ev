@@ -4,7 +4,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <link rel="apple-touch-icon" sizes="76x76" href="../users/assets/img/arshedni.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="../users/assets/img/Removal-782.png">
   <link rel="icon" type="image/png" href="">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>
