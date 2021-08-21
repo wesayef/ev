@@ -48,10 +48,10 @@ else
   <link rel="icon" type="image/png" sizes="16x16" href="">
   <title>أرشدني</title>
   <link href="../templates/assets/css/style_all_ar.css" rel="stylesheet">
-  [if lt IE 9]>
+  <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
   <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-  <![endif]
+  <![endif]-->
 </head>
 
 <body class="fix-header card-no-border logo-center">
