@@ -21,12 +21,11 @@ use Kreait\Firebase\ServiceAccount;
 // use Kreait\Firebase;
 
 //
-//$url = 'https://arshedni-5d126-default-rtdb.firebaseio.com/';
+
 $url = "https://arshedni-5d126-default-rtdb.firebaseio.com/";
 $serviceAccount = ServiceAccount::fromJsonFile(__DIR__ .'/arshedni.json');
 
-  // $url = 'https://stars-5cb56-default-rtdb.firebaseio.com/';
-  // $serviceAccount = ServiceAccount::fromJsonFile(__DIR__ .'/service.json');
+
   $firebase = (new Factory)
   ->withServiceAccount($serviceAccount)
   ->withDatabaseUri($url)
