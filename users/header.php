@@ -1,6 +1,6 @@
 <?php include_once "../conf/config.php" ; ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="AR">
 
 <head>
   <meta charset="utf-8" />
