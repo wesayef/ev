@@ -19822,7 +19822,7 @@ Copyright (c) 2015 Daniel Eden
   }
 }
 
-@media (mix-width: 992px) {
+@media (max-width: 992px) {
   .main-panel .navbar .navbar-collapse .navbar-nav .nav-item .nav-link p {
     display: none;
   }
