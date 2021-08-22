@@ -19832,8 +19832,8 @@ Copyright (c) 2015 Daniel Eden
   }
 }
 
-  .nav-mobile-menu,
+ /* .nav-mobile-menu,
   .sidebar .navbar-form {
     display: none !important;
-  }
+  }*/
 }
