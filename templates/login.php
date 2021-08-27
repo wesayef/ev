@@ -34,6 +34,8 @@ if(isset($_POST['login_now']))
           ];
           $conn->getReference('admins/'.$key)->update($upd_last_login);
     var_dump("test");
+    die();
+
     /*  if(isset($_GET['returnTo']))
           {
             header("Location: ".$_GET['returnTo']);
