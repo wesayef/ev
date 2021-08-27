@@ -55,6 +55,7 @@ RewriteRule   ^volunteers$                                            users/volu
 RewriteRule   ^certificates$                                          users/certificates.php
 RewriteRule   ^apps$                                                  users/apps.php
 RewriteRule   ^cal$                                                   users/cal.php
+RewriteRule   ^PSAUInfo$                                              users/PSAUInfo.html
 RewriteRule   ^test$                                                  users/test.php
 
 RewriteRule   ^js$                                                    users/js_request.php
