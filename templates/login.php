@@ -36,9 +36,9 @@ if(isset($_POST['login_now']))
    
 
 
-     if(isset($_GET['returnTo']))
+     /* if(isset($_GET['returnTo']))
           {
-         die(var_dump("test"));  
+          
  header("Location: ".$_GET['returnTo']);
 
 
@@ -46,7 +46,7 @@ if(isset($_POST['login_now']))
           else
           {
             header("Location: dashboard");
-          } 
+          } */
         }
       }
       else
