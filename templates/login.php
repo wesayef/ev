@@ -34,16 +34,16 @@ if(isset($_POST['login_now']))
           ];
           $conn->getReference('admins/'.$key)->update($upd_last_login);
    
-          header("Location: dashboard");
+      
 
-     /* if(isset($_GET['returnTo']))
+         if(isset($_GET['returnTo']))
           {
           
  header("Location: ".$_GET['returnTo']);
 
 
           }
-          else
+          /* else
           {
             header("Location: dashboard");
           } */
