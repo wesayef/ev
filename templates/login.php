@@ -34,7 +34,7 @@ if(isset($_POST['login_now']))
           ];
           $conn->getReference('admins/'.$key)->update($upd_last_login);
    
-
+          header("Location: dashboard");
 
      /* if(isset($_GET['returnTo']))
           {
