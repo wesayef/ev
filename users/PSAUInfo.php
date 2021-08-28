@@ -9,9 +9,9 @@
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Page 2</title>
-    <link rel="stylesheet" href="../users/assets/css/nicepageT2.css" media="screen">
-    <link rel="stylesheet" href="../users/assets/css/nicepage.css" media="screen">
-    <link rel="stylesheet" href="../users/assets/css/Info.css" media="screen">
+    <link rel="stylesheet" href="ev/users/assets/css/nicepageT2.css" media="screen">
+    <link rel="stylesheet" href="ev/users/assets/css/nicepage.css" media="screen">
+    <link rel="stylesheet" href="ev/users/assets/css/Info.css" media="screen">
 
     <meta name="generator" content="Nicepage 3.23.2, nicepage.com">
     <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
